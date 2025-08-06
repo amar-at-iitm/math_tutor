@@ -1,0 +1,26 @@
+[
+  {
+    "problem": "Solve for x: x**2 + 5*x + 6 = 0",
+    "topic": "algebra",
+    "difficulty": "easy",
+    "expected_solution": "x = -2 or x = -3"
+  },
+  {
+    "problem": "Find the derivative of f(x) = 3*x**4 + sin(x)",
+    "topic": "calculus",
+    "difficulty": "medium",
+    "expected_solution": "12*x**3 + cos(x)"
+  },
+  {
+    "problem": "Calculate the integral of 2*x from x=0 to x=4",
+    "topic": "calculus",
+    "difficulty": "easy",
+    "expected_solution": "16"
+  },
+  {
+    "problem": "How many ways can you arrange the letters in the word 'MATH'?",
+    "topic": "discrete math",
+    "difficulty": "easy",
+    "expected_solution": "24"
+  }
+]
