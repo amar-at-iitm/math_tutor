@@ -1,0 +1,8 @@
+# Core dependencies for the Math Tutor project
+flask
+sympy
+
+# For a real LLM implementation, you would add libraries like:
+transformers
+torch
+accelerate
